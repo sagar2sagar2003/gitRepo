@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78355" started-at="2018-07-12T03:35:22Z" finished-at="2018-07-12T03:36:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78355" started-at="2018-07-12T03:35:22Z" finished-at="2018-07-12T03:36:41Z">
+      <class name="com.wordpress.testcases.VerifyWPLogin">
+        <test-method status="PASS" signature="DriverInit()[pri:0, instance:com.wordpress.testcases.VerifyWPLogin@3cb1ffe6]" name="DriverInit" is-config="true" duration-ms="11739" started-at="2018-07-12T03:35:24Z" finished-at="2018-07-12T03:35:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverInit -->
+        <test-method status="PASS" signature="loginPageFact(java.lang.String, java.lang.String)[pri:0, instance:com.wordpress.testcases.VerifyWPLogin@3cb1ffe6]" name="loginPageFact" duration-ms="5920" started-at="2018-07-12T03:35:36Z" data-provider="pagefactData" finished-at="2018-07-12T03:35:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestName]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Duty]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageFact -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:com.wordpress.testcases.VerifyWPLogin@3cb1ffe6]" name="CloseDriver" is-config="true" duration-ms="2389" started-at="2018-07-12T03:35:42Z" finished-at="2018-07-12T03:35:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+        <test-method status="PASS" signature="DriverInit()[pri:0, instance:com.wordpress.testcases.VerifyWPLogin@3cb1ffe6]" name="DriverInit" is-config="true" duration-ms="6796" started-at="2018-07-12T03:35:44Z" finished-at="2018-07-12T03:35:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverInit -->
+        <test-method status="PASS" signature="loginPageFact(java.lang.String, java.lang.String)[pri:0, instance:com.wordpress.testcases.VerifyWPLogin@3cb1ffe6]" name="loginPageFact" duration-ms="5381" started-at="2018-07-12T03:35:51Z" data-provider="pagefactData" finished-at="2018-07-12T03:35:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sagar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[QA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageFact -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:com.wordpress.testcases.VerifyWPLogin@3cb1ffe6]" name="CloseDriver" is-config="true" duration-ms="2366" started-at="2018-07-12T03:35:57Z" finished-at="2018-07-12T03:35:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+        <test-method status="PASS" signature="DriverInit()[pri:0, instance:com.wordpress.testcases.VerifyWPLogin@3cb1ffe6]" name="DriverInit" is-config="true" duration-ms="7138" started-at="2018-07-12T03:35:59Z" finished-at="2018-07-12T03:36:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverInit -->
+        <test-method status="PASS" signature="loginPageFact(java.lang.String, java.lang.String)[pri:0, instance:com.wordpress.testcases.VerifyWPLogin@3cb1ffe6]" name="loginPageFact" duration-ms="9372" started-at="2018-07-12T03:36:06Z" data-provider="pagefactData" finished-at="2018-07-12T03:36:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageFact -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:com.wordpress.testcases.VerifyWPLogin@3cb1ffe6]" name="CloseDriver" is-config="true" duration-ms="2254" started-at="2018-07-12T03:36:15Z" finished-at="2018-07-12T03:36:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+        <test-method status="PASS" signature="DriverInit()[pri:0, instance:com.wordpress.testcases.VerifyWPLogin@3cb1ffe6]" name="DriverInit" is-config="true" duration-ms="7468" started-at="2018-07-12T03:36:18Z" finished-at="2018-07-12T03:36:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverInit -->
+        <test-method status="PASS" signature="wpLogin()[pri:0, instance:com.wordpress.testcases.VerifyWPLogin@3cb1ffe6]" name="wpLogin" duration-ms="13378" started-at="2018-07-12T03:36:25Z" finished-at="2018-07-12T03:36:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wpLogin -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:com.wordpress.testcases.VerifyWPLogin@3cb1ffe6]" name="CloseDriver" is-config="true" duration-ms="2127" started-at="2018-07-12T03:36:39Z" finished-at="2018-07-12T03:36:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+      </class> <!-- com.wordpress.testcases.VerifyWPLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

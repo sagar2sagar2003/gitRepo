@@ -1,0 +1,3 @@
+ChromeDriver=D:\\Selenium_Aug17_Softwares\\Selenium_June18\\Browsers\\chromedriver.exe
+IEDriver=D:\\Selenium_Aug17_Softwares\\Selenium_June18\\Browsers\\IEDriverServer.exe
+URL=http://demosite.center/wordpress/wp-login.php

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Selenium_June18/Softwares/selenium-server-standalone-3.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Selenium_June18/Softwares/client-combined-3.13.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Selenium_June18/Softwares/client-combined-3.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Selenium_June18/Softwares/libs/byte-buddy-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Selenium_June18/Softwares/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Selenium_June18/Softwares/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Selenium_June18/Softwares/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Selenium_June18/Softwares/libs/gson-2.8.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Selenium_June18/Softwares/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Selenium_June18/Softwares/libs/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Selenium_June18/Softwares/libs/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Selenium_June18/Softwares/libs/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Selenium_June18/Softwares/libs/okio-1.14.1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Softwares/Apache POI/poi-3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Softwares/Apache POI/poi-3.17/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Softwares/Apache POI/poi-3.17/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Softwares/Apache POI/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Softwares/Apache POI/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Softwares/Apache POI/poi-3.17/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Softwares/Apache POI/poi-3.17/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Softwares/Apache POI/poi-3.17/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Softwares/Apache POI/poi-3.17/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Softwares/Apache POI/poi-3.17/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Softwares/Apache POI/poi-3.17/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium_Aug17_Softwares/Softwares/Apache POI/poi-3.17/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
