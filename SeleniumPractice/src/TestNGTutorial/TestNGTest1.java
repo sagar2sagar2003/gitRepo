@@ -21,4 +21,9 @@ public class TestNGTest1 {
 	{
 		System.out.println("Method 3");
 	}
+	@Test(priority=3)
+	void method4()
+	{
+		System.out.println("Method 4");
+	}
 }
